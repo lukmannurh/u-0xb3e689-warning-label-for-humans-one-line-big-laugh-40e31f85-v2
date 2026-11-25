@@ -133,4 +133,11 @@ one idea. Only the winner is built.
 
 - Built, tested. NOT committed, NOT pushed, NOT bundled, NOT checked,
   NOT submitted — parent does that.
-- No claim code yet (none issued).
+- Submitted; claim code recorded in the Submission section.
+
+## Submission
+
+- Submission: 01a210c8-f7e8-7601-bbbf-6e38a83c1dd4
+- Commit: c4f369aa0f6242175269f24fc76015db20c2687e
+- Stage: checked
+- Claim code: AF-KWA3H-66Z07-6PB48-Q96XC
